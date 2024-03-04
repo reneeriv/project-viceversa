@@ -1,0 +1,45 @@
+body {
+    background-color: #FE9AB2;
+    background-image: url(bgs/lghtmesh.png);
+    color: #000000;
+	font-family: 'Raleway';
+}
+.jumbotron {
+    background-color: #9CBEE4;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.display-4 {
+	font-family: 'Caprasimo';
+	font-style: normal;
+	font-size: 80px;
+}
+
+.lead {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	font-size: 15px;
+}
+
+.col-12.col-sm-6.col-md-4.col-lg-3 img {
+    border: 2px solid #FFFFFF;
+}
+a {
+    color: #FB023E;
+}
+a:hover {
+    color: #295D97;
+}
+footer {
+    background-color: #FE9AB2;
+}
+.btn-primary {
+    background-color: #D9CB04;
+    color: #000000;
+}
+.btn-primary:hover {
+    background-color: #ABD904;
+    color: #000000;
+}
